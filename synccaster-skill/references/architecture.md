@@ -628,6 +628,6 @@ AI Agent: { ok: false, error: {...} }
 - Query: Agent → MCP → Bridge → Extension → DB
 
 **For Implementation**:
-- See [MCP-CONFIG.md](MCP-CONFIG.md) for setup
-- See [MCP-TOOLS.md](MCP-TOOLS.md) for API reference
-- See [PLATFORM-LIST.md](PLATFORM-LIST.md) for platform details
+- See [MCP-CONFIG.md](mcp-config.md) for setup
+- See [MCP-TOOLS.md](mcp-tools.md) for API reference
+- See [PLATFORM-LIST.md](platform-list.md) for platform details
