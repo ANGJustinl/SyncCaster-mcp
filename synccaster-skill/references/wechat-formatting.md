@@ -564,5 +564,5 @@ Markdown → render_wechat_html → HTML + CSS → WeChat editor (source view) �
 
 For other platforms, use `create_post` and `publish_post` directly (no pre-rendering needed).
 
-See [MCP-TOOLS.md](MCP-TOOLS.md) for tool reference.
-See [PLATFORM-LIST.md](PLATFORM-LIST.md) for platform comparison.
+See [MCP-TOOLS.md](./mcp-tools.md) for tool reference.
+See [PLATFORM-LIST.md](./platform-list.md) for platform comparison.
