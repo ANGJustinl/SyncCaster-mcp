@@ -213,8 +213,6 @@ Chrome Native Messaging allows native apps to communicate with extensions.
 }
 ```
 
-**macOS / Windows**: Native host **not required**. MCP server communicates directly with HTTP bridge.
-
 ---
 
 ### 5. Extension Layer
