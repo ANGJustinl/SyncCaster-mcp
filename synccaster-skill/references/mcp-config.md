@@ -11,7 +11,7 @@ Complete setup instructions for integrating SyncCaster MCP with various AI agent
 
 2. **Extension ID Required**
    - After loading, note the extension ID (32-character string in extension card)
-   - Example: `abcdefghijklmnopqrstuvwxzyabcdef1234567890`
+   - Example: `abcdefghijklmnopabcdefghijklmnop`
 
 3. **Accounts Bound**
    - Open SyncCaster extension → Accounts tab
