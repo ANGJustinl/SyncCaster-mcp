@@ -643,4 +643,4 @@ Common error codes:
 - `validation_error`: Invalid input parameters
 - `internal_error`: Unexpected error (check logs)
 
-See [ERROR-CODES.md](ERROR-CODES.md) for detailed error handling.
+See [error-codes.md](error-codes.md) for detailed error handling.
