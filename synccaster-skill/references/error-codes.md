@@ -616,5 +616,5 @@ If you encounter:
 | `validation_error` | Invalid input | Check required fields |
 | `internal_error` | Unexpected error | Restart extension, report bug |
 
-See [MCP-TOOLS.md](MCP-TOOLS.md) for tool specifications.
-See [MCP-CONFIG.md](MCP-CONFIG.md) for setup help.
+See [MCP-TOOLS.md](mcp-tools.md) for tool specifications.
+See [MCP-CONFIG.md](mcp-config.md) for setup help.
