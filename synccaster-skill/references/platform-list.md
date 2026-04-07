@@ -439,4 +439,4 @@ Platform capabilities and requirements change. For latest information:
 3. Test publish with sample content
 4. Monitor job status errors
 
-See [ERROR-CODES.md](ERROR-CODES.md) for error handling.
+See [error-codes.md](error-codes.md) for error handling.
