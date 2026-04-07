@@ -12,7 +12,7 @@ Multi-platform content publishing bridge for AI agents. Configure once, publish 
 ### For Users
 
 1. **Install Chrome Extension**
-   - Clone from [SyncCaster-mcp](https://github.com/RyanYipeng/SyncCaster-mcp)
+   - Clone from [SyncCaster-mcp](https://github.com/RyanYipeng/SyncCaster)
    - Extract to local folder (e.g., `~/SyncCaster`)
    - Open Chrome → `chrome://extensions/` → Enable Developer Mode → Load unpacked extension
 
