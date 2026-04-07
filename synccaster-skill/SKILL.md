@@ -56,9 +56,9 @@ Full setup instructions for different environments:
 
 Detailed documentation for MCP tools:
 
-- [MCP-TOOLS.md](references/MCP-TOOLS.md) - Complete tool reference with request/response examples
-- [PLATFORM-LIST.md](references/PLATFORM-LIST.md) - All 17+ platforms and their capabilities
-- [ERROR-CODES.md](references/ERROR-CODES.md) - Error handling and troubleshooting
+- [MCP-TOOLS.md](references/mcp-tools.md) - Complete tool reference with request/response examples
+- [PLATFORM-LIST.md](references/platform-list.md) - All 17+ platforms and their capabilities
+- [ERROR-CODES.md](references/error-codes.md) - Error handling and troubleshooting
 
 ## Common Workflows
 
