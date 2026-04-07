@@ -122,5 +122,5 @@ For detailed information, consult:
 - [MCP-TOOLS.md](references/MCP-TOOLS.md) - Tool reference with examples
 - [PLATFORM-LIST.md](references/PLATFORM-LIST.md) - Platform capabilities matrix
 - [ERROR-CODES.md](references/ERROR-CODES.md) - Error codes and solutions
-- [WECHAT-FORMATTING.md](references/WECHAT-FORMATTING.md) - WeChat rendering guide
-- [ARCHITECTURE.md](references/ARCHITECTURE.md) - System architecture details
+- [WECHAT-FORMATTING.md](references/wechat-formatting.md) - WeChat rendering guide
+- [ARCHITECTURE.md](references/architecture.md) - System architecture details
